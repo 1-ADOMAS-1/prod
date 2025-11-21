@@ -1,1 +1,98 @@
-/* Add your CSS style definitions to this file */
+/* --- Общие стили и Инструкция 3: Поля для body --- */
+body {
+  margin: 0em 4em 0em 4em;
+
+  font-family: 'Open Sans';
+  font-size: 1rem;
+  
+  color: #29293a;
+  background-color: #f9f9f9;
+}
+
+.hero {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-family: 'Roboto Slab';
+  font-size: 2rem;
+
+  text-align: center;
+  color: #9f2042;
+}
+
+#details {
+  font-size: 0.9rem;
+  text-align: center; 
+
+  color: #a9a9ba;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+blockquote {
+  font-family: 'Roboto Slab';
+  font-size: 1.25rem;
+
+  background-color: #ececec;
+  padding: 1em;
+  color: #29293a;
+}
+
+a {
+  text-decoration: none;
+}
+
+#buttons {
+    margin-bottom: 1rem;
+}
+
+#buttons a {
+  font-size: 1rem;
+
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0.5em 1em;
+
+  color: #ec8295;
+  border: 0.1em solid #ec8295;
+  border-radius: 0.5rem;
+}
+
+#buttons a:hover {
+  color: #9f2042;
+  background-color: #a9a9ba;
+}
+
+footer {
+    background-color: #29293a;
+    padding: 1em;
+    margin: 0;
+}
+
+footer p {
+  color: #f9f9f9; 
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+footer a {
+    color: #9f2042; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
